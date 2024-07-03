@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/background.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/close.png</file>
+    <file>icons/确认密码.png</file>
+    <file>icons/锁.png</file>
+    <file>icons/用户.png</file>
+  </qresource>
+</RCC>
